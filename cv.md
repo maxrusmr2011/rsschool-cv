@@ -53,6 +53,9 @@ took part in 2 group tasks
 - courses:
   - course Front-End LAB (EPAM University)
   - course English scool
+- sites:
+  - codeacademy.com
+  - learn.javascript.ru
 
 ---
 
