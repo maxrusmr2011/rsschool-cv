@@ -34,6 +34,10 @@ I am easy to train, insistent, and ready to work hard.
 - Graphic Editor
   - PhotoShop
   - Illustrator
+- Pre-processors
+  - webpack
+  - gulp
+  - grunt
 - Git
 
 ---
