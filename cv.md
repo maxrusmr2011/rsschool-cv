@@ -3,13 +3,13 @@
 ---
 
 ### Contacts:
-E-mail: maxrusmr2011@gmail.com 
-Tel.: +380505646126 
+E-mail: maxrusmr2011@gmail.com
+Tel.: +380505646126
 
 ---
 
 ### Summary:
-My goal is to get maximum experiance in web-development 
+My goal is to get maximum experience in web-development
 and get good point in IT-company.
 I learn hard in web-technology and go on to do it.
 I am easy to train, insistent, and ready to work hard.
@@ -27,9 +27,9 @@ I am easy to train, insistent, and ready to work hard.
 - PHP
 - FormWorks:
   - jQuery
-  - Angular v.1.X
-  - Angular v.2-8
-  - React
+  - AngularJS v.1.X
+  - Angular v.2+
+  - ReactJS
   - Bootstrap
 - Graphic Editor
   - PhotoShop
@@ -52,7 +52,7 @@ took part in 2 group tasks
 - Kharkiv University of Radio Electronic
 - courses:
   - course Front-End LAB (EPAM University)
-  - course English scool
+  - course English school
 - sites:
   - codeacademy.com
   - learn.javascript.ru
