@@ -11,23 +11,24 @@ body {
   margin: 0 auto;
   padding: 20px 20px 0 20px;
 }
+
 header {
   display: flex;
   align-items: center;
 }
+
 h1 {
   flex: 1 1 100%;
   text-align: center;
   color: #307dd6;
 }
 
-
 img {
-  /* float: right; */
-display: inline-block;
+  display: inline-block;
   width: 200px;
   margin: 0 0 20px 20px;
 }
+
 h2 {
   margin-bottom: 20px;
   text-indent: 2ch;
@@ -37,8 +38,8 @@ h2 {
 }
 
 hr {
-  color: #dddddd;
   margin: 20px 0;
+  color: #dddddd;
 }
 
 p, li {
@@ -52,7 +53,7 @@ p, li {
 
 footer {
   height: 50px;
-  background-color: #aaaaaa;
   max-width: 1024px;
   margin: 0 auto;
+  background-color: #aaaaaa;
 }
